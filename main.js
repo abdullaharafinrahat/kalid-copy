@@ -1,4 +1,4 @@
-// Khalid Farhan Website Interactive Scripts
+// Nextechzen Website Interactive Scripts
 
 document.addEventListener('DOMContentLoaded', () => {
   // 1. Hero Rotating Accent Words
